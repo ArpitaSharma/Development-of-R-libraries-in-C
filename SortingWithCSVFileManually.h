@@ -1,4 +1,4 @@
-	void sortingThroughFile (){
+	void sortingThroughFile 
 #define ARRAYSIZE(x)  (sizeof(x)/sizeof(*(x)))
    const char filename[] = "sort.csv";
    /*
