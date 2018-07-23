@@ -1,0 +1,2 @@
+# Development-of-R-libraries-in-C
+R is a language and environment for statistical computing and graphics. It includes an effective data handling and storage facility, a large, coherent, integrated collection of intermediate tools for data analysis. We aim to develop R libraries to deliver good performance, it will support basic form operations and understanding the space time complexity in different platforms.
