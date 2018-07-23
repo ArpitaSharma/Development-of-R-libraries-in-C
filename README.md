@@ -10,8 +10,12 @@ R is a language and environment for statistical computing and graphics. It inclu
 `.C("main")`
 
 # Execution result may vary according to the system configuration
-Processor : Intel Core i5
-RAM : 8 GB
-System Type : 64 bit Operating System
+* Processor : Intel Core i5
+* RAM : 8 GB
+* System Type : 64 bit Operating System
 
 # Time Complexity on RStudio
+
+* Sorting 50000 Random Numbers Using Selection Sort
+
+![](Time-Complexity-On-RStudio.JPG)
